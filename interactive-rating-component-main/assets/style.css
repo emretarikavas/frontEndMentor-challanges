@@ -48,9 +48,9 @@ button {
 .container {
   
     padding: 25px;
-    min-width: 400px;
+    max-width: 400px;
     width: 400px;
-    min-height: 400px;
+    max-height: 400px;
     background-color: var(--dark-blue);
     border-radius: 30px;
 }
